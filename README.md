@@ -67,4 +67,4 @@ To run this project locally, you will need to have Node.js and `npm` installed o
 4.  **Open the application** in your browser at the provided URL, usually `http://localhost:5173`.
 
 ---
-*This README was generated with assistance from Google's Gemini.*
+
